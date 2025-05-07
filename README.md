@@ -16,8 +16,7 @@ Automation Testing with Selenium portfolio
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/automation-demo-project.git
-   cd automation-demo-project
+   git clone https://github.com/alonaOleksiienko/Selenium_aoutotests_demo.git
 
 2. Install dep[endencies(for Java/Maven) - mvn clean install
 3. Run Tests -mvn test -Pui (bash)
